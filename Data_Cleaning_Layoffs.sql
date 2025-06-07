@@ -1,4 +1,4 @@
--- Data Cleaning
+-- Data Cleaning Project with MySQL on World Lay-offs
 
 
 SELECT *
